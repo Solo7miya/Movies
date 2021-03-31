@@ -1,0 +1,26 @@
+
+.hr{
+    border: 3px solid rgb(37, 37, 37);
+    display: flex;
+    flex: 2;
+    margin: 5px;
+    padding: 10px;
+}
+.cm{
+    border: 3px solid rgb(37, 37, 37);
+    display: flex;
+    flex: 2;
+    margin: 5px;
+    padding: 10px;
+}
+.rn{
+    border: 3px solid rgb(37, 37, 37);
+    display: flex;
+    flex: 2;
+    margin: 5px;
+    padding: 10px;
+}
+.st{
+    display: flex;
+    flex-direction: row;
+}
